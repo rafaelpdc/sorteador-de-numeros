@@ -9,9 +9,8 @@ function sortearNumero(){
 
     const resultado = Math.floor(Math.random() * (valorDeEntradaMin - valorDeEntradaMax + 1)) + valorDeEntradaMax;
 
-   document.querySelector(".resultado1").innerHTML= resultado
-    
+   document.querySelector(".resultado1").innerHTML= resultado}   
 
 
 
-}}
+}
