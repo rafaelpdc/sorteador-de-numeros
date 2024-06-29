@@ -5,5 +5,5 @@
 <h2>
   Resultado 🚀🚀🚀
 </h2>
-<a target="_blank" href=https://rafaelpdc.github.io/sorteador-de-numeros/>Link do projeto 🔗</a>
+<a href=https://rafaelpdc.github.io/sorteador-de-numeros/>Link do projeto 🔗</a>
 <img src= https://github.com/rafaelpdc/sorteador-de-numeros/blob/main/assets/dev-sorteio-img.PNG>
